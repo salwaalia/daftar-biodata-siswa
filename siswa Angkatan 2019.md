@@ -31,4 +31,4 @@
    JK     : Laki - Laki
    Agama  : Islam 
    TTL    : Ambon, 19 Agustus 2003
-   Alamat : Jln. Jakarta RT.14 No.33
+   Alamat : Jln. Jakarta RT.14 No.33<br>
